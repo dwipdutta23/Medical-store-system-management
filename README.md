@@ -1,6 +1,6 @@
 # Medical-store-system-management
-Medical store system management using file handling system in c
-This is a Medical Store Management System developed using the C programming language with a focus on file handling. It was one of my early projects while learning how to manage data using files in C.
+Medical store system management using file system in c
+This is a Medical Store Management System developed using the C programming language with a focus on file systems. It was one of my early projects while learning how to manage data using files in C.
 
 
 *Features*
